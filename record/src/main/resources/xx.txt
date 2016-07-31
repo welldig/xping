@@ -1,0 +1,30 @@
+if (dataExt != null && StringUtils.equals(dataExt.get("isQmall"), "true")) {
+                QmallItem item = new QmallItem();
+                item.setId(BigInteger.valueOf(NumberUtils.toLong(dataExt.get("pid"))));
+                item.setExpCode(dataExt.get("expCode"));
+                item.setToken(dataExt.get("qmallId"));
+                item.setProductAdapter(dataExt.get("productAdapter"));
+                item.setProductType(NumberUtils.toInt(dataExt.get("productType")));
+                item.setTypeName(dataExt.get("productName"));
+                item.setProductName(dataExt.get("productNameDetail"));
+                item.setProductDetail(dataExt.get("productDetail"));
+                item.setPurchasePrice(new BigDecimal(dataExt.get("purchasePrice")));
+                item.setSellPrice(new BigDecimal(dataExt.get("sellPrice")));
+                item.setStorePrice(new BigDecimal(dataExt.get("storePrice")));
+                item.setAddr(dataExt.get("addr"));
+                item.setAddrDetail(dataExt.get("addrDetail"));
+                item.setTtsUseInstruction(dataExt.get("ttsUseInstruction"));
+                item.setTelephone(dataExt.get("telephone"));
+                item.setShortProductDetail(dataExt.get("shortProductDetail"));
+                item.setWapPicturesUrl(dataExt.get("wapPictureUrl"));
+                item.setFormatDetails(
+                        JsonUtils.deSerialize(dataExt.get("formatDetails"), QmallItem.FormatDetails.class));
+                item.setDefaultCount(1);
+                item.setAdultMax(1);
+                String childMax = dataExt.get("childMax");
+                if (childMax != null) {
+                    item.setChildMax(NumberUtils.toInt(childMax));
+                }
+                if (StringUtils.equals(dataExt.get("modified"), "true")) {
+                    modified = true;
+                }
