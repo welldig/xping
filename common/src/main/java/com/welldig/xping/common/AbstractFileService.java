@@ -42,7 +42,7 @@ public abstract class AbstractFileService {
     }
 
     protected String transformLine(String line, int lineNo) {
-        return line;
+        return line.trim();
     }
 
     protected boolean isProcess(String line, int lineNo) {

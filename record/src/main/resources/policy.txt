@@ -1,0 +1,98 @@
+3 	0 	审核通过 		use com_qunar_trade_adx 	0
+4 	2 	Column 'source_num' not existed. 	192.168.13.198:3309 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+13 	0 	审核通过 		use com_qunar_trade_hbr 	0
+14 	2 	Column 'source_num' not existed. 	192.168.13.198:3309 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+31 	0 	审核通过 		use com_qunar_trade_njh 	0
+32 	2 	Column 'source_num' not existed. 	192.168.13.198:3309 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+47 	0 	审核通过 		use com_qunar_trade_cgj 	0
+48 	2 	Column 'source_num' not existed. 	192.168.13.190:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+227 	0 	审核通过 		use com_qunar_trade_syv 	0
+228 	2 	Column 'source_num' not existed. 	192.168.13.190:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+301 	0 	审核通过 		use com_qunar_trade_yjb 	0
+302 	2 	Column 'source_num' not existed. 	192.168.13.190:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+347 	0 	审核通过 		use com_qunar_trade_zwh 	0
+348 	2 	Column 'source_num' not existed. 	192.168.13.190:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+105 	0 	审核通过 		use com_qunar_trade_ftf 	0
+106 	2 	Column 'source_num' not existed. 	192.168.13.177:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	232
+113 	0 	审核通过 		use com_qunar_trade_fyp 	0
+114 	2 	Column 'source_num' not existed. 	192.168.13.177:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+247 	0 	审核通过 		use com_qunar_trade_szc 	0
+248 	2 	Column 'source_num' not existed. 	192.168.13.177:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+329 	0 	审核通过 		use com_qunar_trade_ymc 	0
+330 	2 	Column 'source_num' not existed. 	192.168.13.177:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+119 	0 	审核通过 		use com_qunar_trade_gzw 	0
+120 	2 	Column 'source_num' not existed. 	192.168.13.196:3308 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+121 	0 	审核通过 		use com_qunar_trade_hch 	0
+122 	2 	Column 'source_num' not existed. 	192.168.13.194:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+193 	0 	审核通过 		use com_qunar_trade_mlh 	0
+194 	2 	Column 'source_num' not existed. 	192.168.13.194:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+141 	0 	审核通过 		use com_qunar_trade_hxq 	0
+142 	2 	Column 'source_num' not existed. 	192.168.13.45:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+211 	0 	审核通过 		use com_qunar_trade_lyj 	0
+212 	2 	Column 'source_num' not existed. 	192.168.13.45:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+257 	0 	审核通过 		use com_qunar_trade_sxr 	0
+258 	2 	Column 'source_num' not existed. 	192.168.13.45:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+323 	0 	审核通过 		use com_qunar_trade_ygv 	0
+324 	2 	Column 'source_num' not existed. 	192.168.13.45:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+109 	0 	审核通过 		use com_qunar_trade_hnm 	0
+110 	2 	Column 'source_num' not existed. 	192.168.13.60:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+175 	0 	审核通过 		use com_qunar_trade_mli 	0
+176 	2 	Column 'source_num' not existed. 	192.168.13.60:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+233 	0 	审核通过 		use com_qunar_trade_sxw 	0
+234 	2 	Column 'source_num' not existed. 	192.168.13.60:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+113 	0 	审核通过 		use com_qunar_trade_hcb 	0
+114 	2 	Column 'source_num' not existed. 	192.168.13.200:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+329 	0 	审核通过 		use com_qunar_trade_ybh 	0
+330 	2 	Column 'source_num' not existed. 	192.168.13.200:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	107739
+361 	0 	审核通过 		use com_qunar_trade_ztn 	0
+362 	2 	Column 'source_num' not existed. 	192.168.13.200:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+23 	0 	审核通过 		use com_qunar_trade_hea 	0
+24 	2 	Column 'source_num' not existed. 	192.168.13.51:3308 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+119 	0 	审核通过 		use com_qunar_trade_frs 	0
+120 	2 	Column 'source_num' not existed. 	192.168.12.27:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+209 	0 	审核通过 		use com_qunar_trade_nxa 	0
+210 	2 	Column 'source_num' not existed. 	192.168.12.27:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+279 	0 	审核通过 		use com_qunar_trade_tsu 	0
+280 	2 	Column 'source_num' not existed. 	192.168.12.27:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+299 	0 	审核通过 		use com_qunar_trade_xbc 	0
+300 	2 	Column 'source_num' not existed. 	192.168.12.27:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+367 	0 	审核通过 		use com_qunar_trade_zzd 	0
+368 	2 	Column 'source_num' not existed. 	192.168.12.27:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+95 	0 	审核通过 		use com_qunar_trade_dfl 	0
+96 	2 	Column 'source_num' not existed. 	192.168.13.192:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+133 	0 	审核通过 		use com_qunar_trade_hir 	0
+134 	2 	Column 'source_num' not existed. 	192.168.13.49:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+243 	0 	审核通过 		use com_qunar_trade_sjc 	0
+244 	2 	Column 'source_num' not existed. 	192.168.13.49:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+337 	0 	审核通过 		use com_qunar_trade_ylp 	0
+338 	2 	Column 'source_num' not existed. 	192.168.13.49:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+77 	0 	审核通过 		use com_qunar_trade_byf 	0
+78 	2 	Column 'source_num' not existed. 	192.168.13.35:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+115 	0 	审核通过 		use com_qunar_trade_gze 	0
+116 	2 	Column 'source_num' not existed. 	192.168.13.35:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+225 	0 	审核通过 		use com_qunar_trade_nya 	0
+226 	2 	Column 'source_num' not existed. 	192.168.13.35:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+343 	0 	审核通过 		use com_qunar_trade_ybm 	0
+344 	2 	Column 'source_num' not existed. 	192.168.13.35:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	14
+389 	0 	审核通过 		use com_qunar_trade_zzs 	0
+390 	2 	Column 'source_num' not existed. 	192.168.13.35:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+25 	0 	审核通过 		use com_qunar_trade_hhm 	0
+26 	2 	Column 'source_num' not existed. 	192.168.13.58:3308 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+97 	0 	审核通过 		use com_qunar_trade_cyr 	0
+98 	2 	Column 'source_num' not existed. 	192.168.13.53:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+169 	0 	审核通过 		use com_qunar_trade_jtd 	0
+170 	2 	Column 'source_num' not existed. 	192.168.13.53:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+329 	0 	审核通过 		use com_qunar_trade_xqx 	0
+330 	2 	Column 'source_num' not existed. 	192.168.13.53:3306 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+119 	0 	审核通过 		use com_qunar_trade_haw 	0
+120 	2 	Column 'source_num' not existed. 	192.168.13.55:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+175 	0 	审核通过 		use com_qunar_trade_llh 	0
+176 	2 	Column 'source_num' not existed. 	192.168.13.55:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+189 	0 	审核通过 		use com_qunar_trade_myj 	0
+190 	2 	Column 'source_num' not existed. 	192.168.13.55:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+191 	0 	审核通过 		use com_qunar_trade_nbf 	0
+192 	2 	Column 'source_num' not existed. 	192.168.13.55:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+217 	0 	审核通过 		use com_qunar_trade_qyh 	0
+218 	2 	Column 'source_num' not existed. 	192.168.13.55:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
+343 	0 	审核通过 		use com_qunar_trade_zhb 	0
+344 	2 	Column 'source_num' not existed. 	192.168.13.55:3307 	alter table policy add index idx_md5_status(`md51`,`md52`,`status`,`sourceType`,`source_num`) 	0
